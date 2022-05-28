@@ -6,7 +6,7 @@ Web Developer & CS Student
 
 * 🌍  I'm based in Barcelona
 * ✉️  You can contact me at [ivan\_anguita@outlook.es](mailto:ivan_anguita@outlook.es)
-* 🚀  I'm currently working on [Addmira](http://addmira.com)
+* 🚀  I'm currently working at [Addmira](http://addmira.com)
 * 🧠  I'm learning everything related to Laravel and React
 * 🤝  I'm open to collaborating on interesting projects
 
