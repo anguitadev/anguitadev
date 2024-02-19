@@ -1,13 +1,14 @@
-Hi 👋 My name is Iván Anguita
+Hi 👋 My name is Ivan Anguita
 =============================
 
-Web Developer & CS Student
+Software Engineer
 --------------------------
 
-* 🌍  I'm based in Barcelona
-* ✉️  You can contact me at [ivan\_anguita@outlook.es](mailto:ivan_anguita@outlook.es)
+* 🌍  I'm based in Tallinn
+* 🌐  Check my website [ivananguita.com](https://ivananguita.com)
+* ✉️  You can contact me at [hello@ivananguita.com](mailto:hello@ivananguita.com)
 * 🚀  I'm currently working at [Addmira](http://addmira.com)
-* 🧠  I'm learning everything related to NextJS and React
+* 🧠  I'm learning everything related to Vue and React
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
