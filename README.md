@@ -5,7 +5,7 @@ Software Engineer
 --------------------------
 
 * 🌍  I'm based in Tallinn
-* 🌐  Check my website [ivananguita.com](https://ivananguita.com)
+* 🌐  Check my website [anguita.dev](https://anguita.dev)
 * ✉️  You can contact me at [anguita.dev@gmail.com](mailto:anguita.dev@gmail.com)
 * 🚀  I'm currently working at [Addmira](http://addmira.com)
 * 🧠  I'm learning everything related to React and Vue
